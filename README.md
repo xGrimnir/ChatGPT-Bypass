@@ -1,6 +1,10 @@
 # ChatGPT-Bypass
 
-Quick Bash Script that allows you to bypass content filtering, as none exists in the API at the moment.
+Simple Scripts that allows you to bypass content filtering, as none exists in the API at the moment.
+
+<b> Youtube Video </b>
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/4caOdVqs0tU/0.jpg)](http://www.youtube.com/watch?v=4caOdVqs0tU "Secret Bypass for ChatGPT Filters")
 
 <!-- Requirements -->
 
