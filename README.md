@@ -1,6 +1,6 @@
 # ChatGPT-Bypass
 
-Simple Scripts that allows you to bypass content filtering, as none exists in the API at the moment.
+Simple Scripts that allows you to bypass content filtering. This calls the OpenAI autocompletion API for DaVinci-003. Click bait-y for CHATGPT, but we won't get into CHATGPT vs DaVinci here. 
 
 <b> Youtube Video </b>
 
