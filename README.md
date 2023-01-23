@@ -14,6 +14,17 @@ Simple Scripts that allows you to bypass content filtering, as none exists in th
 
 Head over to 'beta.openai.com' to retrieve your personal API key and set it the variable CHATGPT_TOKEN...or hard code the key. idc
 
+Windows:
+
+````
+$env:CHATGPT_TOKEN='<api key>'
+````
+
+Nix/MAC:
+
+````
+export CHATGPT_TOKEN=<api key>
+````
 <b>Install jq </b>
 
 Mac:
